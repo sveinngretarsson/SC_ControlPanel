@@ -1,0 +1,1 @@
+Project combines micro python programming of Raspberry Pi Pico, PCB/electric design in KiCad and Mechanical Design in OnShape.
